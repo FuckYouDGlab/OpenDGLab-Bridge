@@ -1,4 +1,4 @@
-#前方高能的郊狼联动mod 基于bepinex
+# 前方高能的郊狼联动mod 基于bepinex
 
 首先，下载安装bepinex
 
